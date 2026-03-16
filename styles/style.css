@@ -248,6 +248,7 @@
 }
 
 .person {
+  display: flex;
   position: absolute;
   align-items: center;
   flex-direction: column;
