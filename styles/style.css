@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 .page {
   min-width: 1100px;
   max-width: 1600px;
@@ -314,7 +317,6 @@
   font-size: 44px;
   font-weight: 500;
   line-height: 52px;
-  font-weight: bold;
 }
 
 .membership__steps {
